@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "/valent"
+  status = 301
+  force = true
