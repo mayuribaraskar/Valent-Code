@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "/valent/day-1/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-1/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/layout.js"
+    ],
+    "/valent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/page.js"
+    ],
+    "/valent/day-2/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-2/page.js"
+    ],
+    "/valent/day-3/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-3/page.js"
+    ],
+    "/valent/day-4/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-4/page.js"
+    ],
+    "/valent/day-5/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-5/page.js"
+    ],
+    "/valent/day-6/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-6/page.js"
+    ],
+    "/valent/day-7/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-7/page.js"
+    ],
+    "/valent/day-8/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/day-8/page.js"
+    ],
+    "/valent/no-page/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/valent/no-page/page.js"
+    ]
+  }
+}
