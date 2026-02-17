@@ -131,12 +131,7 @@ export default function Page() {
             })}
           </div>
 
-          <div style={smallNote}>
-            Songs: <b>/public/music/rose1.mp3</b>, <b>rose2.mp3</b>,{" "}
-            <b>rose3.mp3</b> <br />
-            Images: <b>/public/images/val1.jpg</b>, <b>val2.jpg</b>,{" "}
-            <b>val3.jpg</b>
-          </div>
+        
         </div>
 
         <div style={foot}>Day 7 / 7</div>

@@ -144,13 +144,7 @@ export default function Page() {
             })}
           </div>
 
-          <div style={smallNote}>
-            Songs: <b>/public/music/rose1.mp3</b>, <b>rose2.mp3</b>,{" "}
-            <b>rose3.mp3</b>
-            <br />
-            Images: add your new images too:
-            <b> nan4.jpg</b>, <b>nan5.jpg</b>
-          </div>
+          
         </div>
 
         <div style={foot}>Day 5 / 7</div>

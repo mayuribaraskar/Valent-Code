@@ -10,19 +10,19 @@ export default function Page() {
       src: "/images/arn1.jpg",
       title: "Sweetest Moment 🍫",
       caption: "तुझ्या सोबतचा प्रत्येक क्षण… गोडच वाटतो 💗",
-      song: "/music/rose1.mp3",
+      song: "/music/vekhegi.mp3",
     },
     {
       src: "/images/arn2.jpg",
       title: "A Little More Love 🤍",
       caption: "प्रेम वाढत जातं… तुझ्यामुळे 🥺",
-      song: "/music/rose2.mp3",
+      song: "/music/Pal-Pal.mp3",
     },
     {
       src: "/images/arn3.png",
       title: "Us, Forever 💕",
       caption: "तू आणि मी… कायम, प्रत्येक दिवस 😘",
-      song: "/music/rose3.mp3",
+      song: "/music/kya-dilme.mp3",
     },
   ];
 
@@ -130,12 +130,7 @@ export default function Page() {
             })}
           </div>
 
-          <div style={smallNote}>
-            Put your songs in: <b>/public/music/rose1.mp3</b>,{" "}
-            <b>rose2.mp3</b>, <b>rose3.mp3</b> <br />
-            Put your images in: <b>/public/images/choco1.jpg</b>,{" "}
-            <b>choco2.jpg</b>, <b>choco3.jpg</b>
-          </div>
+         
         </div>
 
         <div style={foot}>Day 3 / 7</div>

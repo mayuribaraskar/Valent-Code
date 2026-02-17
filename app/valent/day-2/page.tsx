@@ -130,10 +130,7 @@ export default function Page() {
             })}
           </div>
 
-          <div style={smallNote}>
-            Songs path: <b>/public/music/rose1.mp3</b>, <b>rose2.mp3</b>,{" "}
-            <b>rose3.mp3</b>
-          </div>
+         
         </div>
 
         <div style={foot}>Day 2 / 7</div>

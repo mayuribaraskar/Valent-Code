@@ -10,19 +10,19 @@ export default function Page() {
       src: "/images/ga1.jpg",
       title: "Your Arms 🤍",
       caption: "In your arms, I find my peace 💗",
-      song: "/music/rose1.mp3",
+      song: "/music/dekha-tenu1.mp3",
     },
     {
       src: "/images/ga2.jpg",
       title: "Safe With You ✨",
       caption: "Every hug feels like home 🥺",
-      song: "/music/rose2.mp3",
+      song: "/music/mai-agar-1.mp3",
     },
     {
       src: "/images/ga3.jpg",
       title: "Forever Close 💕",
       caption: "Stay this close… always 😘",
-      song: "/music/rose3.mp3",
+      song: "/music/tum-aankhonse.mp3",
     },
   ];
 
@@ -130,12 +130,7 @@ export default function Page() {
             })}
           </div>
 
-          <div style={smallNote}>
-            Songs: <b>/public/music/rose1.mp3</b>, <b>rose2.mp3</b>,{" "}
-            <b>rose3.mp3</b> <br />
-            Images: <b>/public/images/hug1.jpg</b>,{" "}
-            <b>hug2.jpg</b>, <b>hug3.jpg</b>
-          </div>
+          
         </div>
 
         <div style={foot}>Day 6 / 7</div>
